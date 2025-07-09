@@ -1,0 +1,8 @@
+enums are in Realtitlescreen
+
+if theres any differences seen in font0, it would be due to manually inputting numbers in or gamemaker.
+decomp made with utmt v0.6 underanalyzer build and utmt v0.8.2 to view rooms in a more favorable way
+using the bulit-in scripts only.
+
+should be sorted correctly if you have the custom option choosen for default sort order in the asset browser tab in preferences
+i hope.
